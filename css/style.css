@@ -16,7 +16,10 @@ body {
 	background: #fff;
 	padding: 0 45px 20px;
 }
-
+@font-face { 
+  font-family: 'Baskerville';
+  src: url(../fonts/Baskerville.ttc);
+}
 /* Write all remaining styles here */
 #featured img {
     border: 5px rgb(152,173,166) solid;
